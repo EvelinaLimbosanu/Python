@@ -38,5 +38,3 @@ def roman_number(string):
             nr = nr - 1 * multiplu_i
     return "".join(lst)
 
-
-print(roman_number("2893"))
